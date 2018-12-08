@@ -1,6 +1,13 @@
 # nuxt-tutorial
 
-> Nuxt.js project tutorial
+Nuxtのチュートリアルとして「Qiitarch(キーターチ)」を開発。<br>
+Qiita Searchを略して「Qiitarch」。その名の通り、Qiitaの最新記事をキーワード検索できる。<br>
+使用した技術は、Nuxt2.0、bulma、Firebase。
+
+https://daryl-f5622.firebaseapp.com/
+[![Image from Gyazo](https://i.gyazo.com/d802aedac95e3cd9a3accc87da191658.png)](https://gyazo.com/d802aedac95e3cd9a3accc87da191658)
+
+
 
 ## Build Setup
 
