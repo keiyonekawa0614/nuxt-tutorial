@@ -1,7 +1,7 @@
 # How to Create Project 
 ```bash
-$ create nuxt project
-# yarn create nuxt-app nuxt-tutorial
+# create nuxt project
+$ yarn create nuxt-app nuxt-tutorial
 
 succes Installed "create-nuxt-app@2.1.1" with binaries:
       - create-nuxt-app
