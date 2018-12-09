@@ -5,7 +5,8 @@ Qiita Searchを略して「Qiitarch」。その名の通り、Qiitaの最新記�
 使用した技術は、Nuxt2.0、bulma、Firebase。
 
 https://daryl-f5622.firebaseapp.com/
-[![Image from Gyazo](https://i.gyazo.com/d802aedac95e3cd9a3accc87da191658.png)](https://gyazo.com/d802aedac95e3cd9a3accc87da191658)
+
+[![Image from Gyazo](https://i.gyazo.com/6587ce5166550752de1a4ed733ce14bd.png)](https://gyazo.com/6587ce5166550752de1a4ed733ce14bd)
 
 
 
