@@ -209,15 +209,18 @@ export default {
     -o-animation: rotating 2s linear infinite;
     animation: rotating 2s linear infinite;
   }
-  .footer{
+  .footer {
     background-color: #222831;
     color: lemonchiffon;
   }
-  .footer p, strong
-  {color: lemonchiffon}
-  .footer a:hover
-  {color: crimson;}
-  .fa
-  {color: lemonchiffon;
-    margin: 10px}
+  .footer p, strong {
+    color: lemonchiffon;
+  }
+  .footer a:hover {
+    color: crimson;
+  }
+  .fa {
+    color: lemonchiffon;
+    margin: 10px;
+  }
 </style>
