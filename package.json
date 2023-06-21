@@ -15,7 +15,7 @@
     "@nuxtjs/bulma": "^1.2.0",
     "cross-env": "^5.2.0",
     "moment": "^2.22.2",
-    "nuxt": "^2.0.0"
+    "nuxt": "^3.4.3"
   },
   "devDependencies": {
     "css-loader": "^5.0.0",
